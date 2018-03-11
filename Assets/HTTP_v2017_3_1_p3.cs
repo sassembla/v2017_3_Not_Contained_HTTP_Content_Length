@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 
-public class HTTP_v2018 : MonoBehaviour
+public class HTTP_v2017_3_1_p3 : MonoBehaviour
 {
 
     // Use this for initialization
